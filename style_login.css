@@ -1,0 +1,37 @@
+{   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(" girlsBirds5.png ");
+    background-color: #332f2f;
+    background-repeat: no-repeat;
+    background-size: 1500px 1000px;
+    background-blend-mode: overlay;
+}
+
+.form{
+    width: 395px;
+    height: 350px;
+    background-image: url("");
+    background-color: #babac4;
+    padding: 15px;
+    border-radius: 10px;
+    border:2px solid transparent;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+    box-shadow: 4px 0 rgb(37, 36, 36), 0 3px black, 2px 0 black, 0 -1px black;;
+
+    border-radius: 25px;
+    
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+
+}
+
